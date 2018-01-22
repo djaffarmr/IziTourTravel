@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

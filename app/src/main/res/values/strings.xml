@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Izi Tour Travel</string>
+
+    <!-- content description -->
+    <string name="desc_splashscreen">Izi Tour Travel Splash Screen</string>
+    <string name="desc_applogo">App Logo</string>
+    <string name="desc_homebtn">Home Button Icon</string>
+    <string name="desc_viewpager">View Pager Images</string>
+    <string name="desc_pesawat">Pesawat Icon</string>
+    <string name="desc_kereta">Kereta Icon</string>
+    <string name="desc_hotel">Hotel Icon</string>
+    <string name="desc_umroh">Umroh Icon</string>
+    <string name="desc_bus">Bus Icon</string>
+    <string name="desc_travel">Travel Icon</string>
+    <string name="desc_ppob">PPOB Icon</string>
+    <string name="desc_pulsa">Pulsa Icon</string>
+    <string name="desc_tur">Tur Icon</string>
+    <string name="desc_agen">Agen Icon</string>
+    <string name="desc_kontak">Kontak Icon</string>
+    <string name="desc_keluar">Keluar Icon</string>
+
+    <!-- button text -->
+    <string name="text_pesawat">Tiket Pesawat</string>
+    <string name="text_kereta">Kereta Api</string>
+    <string name="text_hotel">Hotel</string>
+    <string name="text_umroh">Umroh</string>
+    <string name="text_bus">Bus Transport</string>
+    <string name="text_travel">Travel</string>
+    <string name="text_ppob">PPOB</string>
+    <string name="text_pulsa">Isi Pulsa</string>
+    <string name="text_tur">Paket Tur</string>
+    <string name="text_agen">Daftar Agen</string>
+    <string name="text_kontak">Kontak Kami</string>
+    <string name="text_keluar">Keluar Aplikasi</string>
+    <string name="text_credits">Credits</string>
+</resources>

@@ -1,0 +1,686 @@
+[
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_umroh.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\bg_umroh.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_viewpager_two.jpg",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\main_viewpager_two.jpg"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_umroh.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_umroh.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_keluar.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_keluar.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_agen.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\bg_agen.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_keluar.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\bg_keluar.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashscreen.jpg",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\splashscreen.jpg"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_active.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\dot_active.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_agen.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_agen.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_active.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\dot_active.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_bus.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_bus.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_viewpager_one.jpg",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\main_viewpager_one.jpg"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_pulsa.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\bg_pulsa.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_viewpager_two.jpg",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\main_viewpager_two.jpg"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_kereta.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\bg_kereta.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashscreen.jpg",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\splashscreen.jpg"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_viewpager_three.jpg",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\main_viewpager_three.jpg"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_pulsa.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_pulsa.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_umroh.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_umroh.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_viewpager_three.jpg",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\main_viewpager_three.jpg"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_inactive.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\dot_inactive.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_ppob.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_ppob.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_pesawat.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_pesawat.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_pulsa.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_pulsa.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_kereta.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_kereta.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_inactive.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\dot_inactive.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_inactive.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\dot_inactive.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_viewpager_two.jpg",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\main_viewpager_two.jpg"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tur.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_tur.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_kontak.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_kontak.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_kontak.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_kontak.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_bus.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_bus.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_travel.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_travel.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_viewpager_one.jpg",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\main_viewpager_one.jpg"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_kontak.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\bg_kontak.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dot_active.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\dot_active.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_travel.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\bg_travel.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashscreen.jpg",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\splashscreen.jpg"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_ppob.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\bg_ppob.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_bus.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\bg_bus.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tur.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_tur.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_viewpager_three.jpg",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\main_viewpager_three.jpg"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_ppob.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_ppob.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_agen.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_agen.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_hotel.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_hotel.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_hotel.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_hotel.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_pesawat.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\bg_pesawat.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_kereta.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_kereta.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_tur.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\bg_tur.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_travel.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_travel.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_white.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_pesawat.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_pesawat.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_keluar.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_keluar.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_viewpager_one.jpg",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\src\\main\\res\\drawable\\main_viewpager_one.jpg"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\src\\main\\res\\drawable\\bg_white.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\3_IziTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_hotel.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\bg_hotel.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white.xml",
+        "source": "C:\\Android\\android\\3. IviTourTravel\\app\\src\\main\\res\\drawable\\bg_white.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\3. IviTourTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    }
+]

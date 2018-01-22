@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_IziTourTravel\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e2eaca6bd55fdeb732a884ee9554c3fefddb84af\\output\\res\\anim\\abc_popup_exit.xml"
+    }
+]

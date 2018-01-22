@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f44336</color>
+    <color name="colorPrimaryDark">#ba000d</color>
+    <color name="colorAccent">#ff7961</color>
+
+    <!-- custom palette -->
+    <color name="background">#fafafa</color>
+    <color name="shadow">#8d8d8d</color>
+    <color name="pesawat">#2196f3</color>
+    <color name="kereta">#ffc107</color>
+    <color name="hotel">#e92265</color>
+    <color name="umroh">#009688</color>
+    <color name="bus">#00bfa5</color>
+    <color name="travel">#00bcd4</color>
+    <color name="ppob">#3f51b5</color>
+    <color name="pulsa">#795548</color>
+    <color name="tur">#fd3535</color>
+    <color name="agen">#00bcd4</color>
+    <color name="kontak">#f50057</color>
+    <color name="keluar">#607d8b</color>
+
+</resources>

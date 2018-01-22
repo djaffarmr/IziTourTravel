@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.izitourtravel.app"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="25" />
+
+    <!-- allow app to connect to the internet -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.template_c.app.SplashScreenActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.template_c.app.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.template_c.app.features.Pesawat" />
+        <activity android:name="com.template_c.app.features.Kereta" />
+        <activity android:name="com.template_c.app.features.Hotel" />
+        <activity android:name="com.template_c.app.features.Umroh" />
+        <activity android:name="com.template_c.app.features.Bus" />
+        <activity android:name="com.template_c.app.features.Travel" />
+        <activity android:name="com.template_c.app.features.PPOB" />
+        <activity android:name="com.template_c.app.features.Pulsa" />
+        <activity android:name="com.template_c.app.features.Tur" />
+        <activity android:name="com.template_c.app.features.Agen" />
+        <activity android:name="com.template_c.app.features.Kontak" />
+    </application>
+
+</manifest>
